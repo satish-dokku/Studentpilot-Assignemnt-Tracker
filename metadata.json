@@ -1,0 +1,6 @@
+{
+  "name": "Student Assignment & Deadline Tracker",
+  "description": "An AI-assisted academic coursework and deadline tracker for college students with automated study schedules and milestone checklists.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
